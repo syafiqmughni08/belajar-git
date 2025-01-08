@@ -1,2 +1,2 @@
 # belajar-git
-Repository untuk belajar Github
+Repository untuk belajar menggunakan Github
